@@ -80,9 +80,6 @@ Feel free to fork this repo, submit pull requests, or raise issues! If you find 
 
 👉 **[GitHub Repo](https://github.com/maixuancanh2003/4-Layers-STM32-Ethernet-MiniPLC-Board)**  🚀  
 
-## 📜 License
-This project is licensed under the **MIT License**. See `LICENSE` for more details.
-
 ## 🎯 Next Steps & Future Work
 ✅ **Enhance Web UI for real-time monitoring**  
 ✅ **Optimize power consumption for edge computing**  
