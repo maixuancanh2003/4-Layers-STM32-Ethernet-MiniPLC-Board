@@ -1,0 +1,148 @@
+\t (00:00:02) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Jan 31 23:07:15 2025
+\t (00:00:02)         Host=DESKTOP-OLN9DLP User=Admin Pid=10920 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe D:\HK242\Do_An_Tot_Nghiep\Hardware\4 Layer\2layers.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 2layers
+\d (00:00:04) Design opened: D:/HK242/Do_An_Tot_Nghiep/Hardware/4 Layer/2layers.brd
+\i (00:00:05) trapsize 8093
+\i (00:00:05) trapsize 8347
+\i (00:00:05) trapsize 6472
+\i (00:00:05) trapsize 6472
+\i (00:00:05) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 62.0232 27.2739
+\i (00:00:05) trapsize 12944
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 82.7331 45.1361
+\i (00:00:06) trapsize 6472
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 82.8626 45.1361
+\i (00:00:07) trapsize 3236
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 82.8626 45.1361
+\i (00:00:07) trapsize 6472
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 82.8625 45.1361
+\i (00:00:08) trapsize 12944
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 82.8625 45.1361
+\i (00:00:08) trapsize 6472
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 82.8625 45.1361
+\i (00:00:09) trapsize 3236
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 82.8625 45.1361
+\i (00:00:10) trapsize 1618
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 82.8625 45.1361
+\i (00:00:10) trapsize 3236
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 82.8625 45.1362
+\i (00:00:10) trapsize 6472
+\i (00:00:13) delete 
+\i (00:00:13) pick grid 70.6953 61.7042
+\t (00:00:13) last pick:  70.7000 61.7000
+\i (00:00:13) pick grid dbl 70.6953 61.7042
+\t (00:00:13) last pick:  70.7000 61.7000
+\i (00:00:14) pick grid 66.6828 74.0007
+\t (00:00:14) last pick:  66.6800 74.0000
+\i (00:00:14) pick grid dbl 66.6828 74.1301
+\t (00:00:14) last pick:  66.6800 74.1300
+\i (00:00:17) setwindow form.find
+\i (00:00:17) FORM find all_on  
+\i (00:00:18) setwindow pcb
+\i (00:00:18) pick grid 97.6182 74.6479
+\t (00:00:18) last pick:  97.6200 74.6500
+\i (00:00:18) pick grid dbl 97.6182 74.6479
+\t (00:00:18) last pick:  97.6200 74.6500
+\i (00:00:19) pick grid 88.8165 72.7063
+\t (00:00:19) last pick:  88.8200 72.7100
+\i (00:00:19) pick grid dbl 88.8165 72.7063
+\t (00:00:19) last pick:  88.8200 72.7100
+\i (00:00:20) pick grid 89.0754 72.1886
+\t (00:00:20) last pick:  89.0800 72.1900
+\i (00:00:20) pick grid 90.6286 71.8003
+\t (00:00:20) last pick:  90.6300 71.8000
+\i (00:00:20) delete 
+\i (00:00:21) pick grid 89.0754 73.3535
+\t (00:00:21) last pick:  89.0800 73.3500
+\i (00:00:21) pick grid dbl 89.0754 73.4829
+\t (00:00:21) last pick:  89.0800 73.4800
+\i (00:00:21) pick grid 89.7226 72.0591
+\t (00:00:21) last pick:  89.7200 72.0600
+\i (00:00:22) setwindow form.find
+\i (00:00:22) FORM find all_on  
+\i (00:00:23) setwindow pcb
+\i (00:00:23) pick grid 131.6602 73.6124
+\t (00:00:23) last pick:  131.6600 73.6100
+\i (00:00:23) pick grid dbl 131.6602 73.6124
+\t (00:00:23) last pick:  131.6600 73.6100
+\i (00:00:24) pick grid 131.6602 72.1886
+\t (00:00:24) last pick:  131.6600 72.1900
+\i (00:00:24) pick grid dbl 131.6602 72.1886
+\t (00:00:24) last pick:  131.6600 72.1900
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 74.7079 51.3492
+\i (00:00:25) trapsize 3236
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 74.7079 51.2197
+\i (00:00:25) trapsize 1618
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 74.6432 50.9609
+\i (00:00:25) trapsize 3236
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 74.6433 50.9609
+\i (00:00:25) trapsize 6472
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 87.7163 12.0004
+\i (00:00:27) trapsize 3236
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 63.7705 18.7959
+\i (00:00:28) trapsize 1618
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 63.6734 18.7959
+\i (00:00:28) trapsize 3236
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 63.6734 18.7959
+\i (00:00:29) trapsize 6472
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 63.6734 18.7959
+\i (00:00:29) trapsize 12944
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 66.0033 38.7291
+\i (00:00:30) trapsize 6472
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 144.1833 43.7772
+\i (00:00:31) trapsize 3236
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 131.8220 40.8002
+\i (00:00:32) trapsize 1618
+\i (00:00:33) exit 
+\e (00:00:33) Do you want to save the changes you made to 2layers.brd?
+\i (00:00:33) fillin no 
+\t (00:00:34)     Journal end - Fri Jan 31 23:07:47 2025

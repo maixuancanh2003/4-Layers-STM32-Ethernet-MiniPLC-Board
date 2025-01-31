@@ -1,0 +1,74 @@
+\t (00:00:02) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Jan 31 23:08:22 2025
+\t (00:00:02)         Host=DESKTOP-OLN9DLP User=Admin Pid=15208 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe D:\HK242\Do_An_Tot_Nghiep\Hardware\4 Layer\4 Layer.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "4 Layer"
+\d (00:00:04) Design opened: D:/HK242/Do_An_Tot_Nghiep/Hardware/4 Layer/4 Layer.brd
+\i (00:00:05) trapsize 6372
+\i (00:00:05) trapsize 6572
+\i (00:00:05) trapsize 5096
+\i (00:00:05) trapsize 5099
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 4308.34 2691.30
+\i (00:00:05) trapsize 10199
+\i (00:00:05) generaledit 
+\i (00:00:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BBB_RevB6_lyr1"
+\i (00:00:09) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BBB_RevB6_lyr1"
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 1065.10 610.73
+\i (00:00:09) trapsize 5099
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 1065.10 610.74
+\i (00:00:10) trapsize 2550
+\i (00:00:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BBB_RevB6_lyr2"
+\i (00:00:12) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BBB_RevB6_lyr2"
+\i (00:00:13) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BBB_RevB6_lyr3"
+\i (00:00:13) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BBB_RevB6_lyr3"
+\i (00:00:15) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BBB_RevB6_lyr4"
+\i (00:00:15) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BBB_RevB6_lyr4"
+\i (00:00:17) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BBB_RevB6_lyr5"
+\i (00:00:17) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BBB_RevB6_lyr5"
+\i (00:00:18) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BBB_RevB6_lyr6"
+\i (00:00:18) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BBB_RevB6_lyr6"
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 4782.60 1727.52
+\i (00:00:18) trapsize 5099
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 4782.59 1727.52
+\i (00:00:19) trapsize 2550
+\i (00:00:20) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BBB_RevB6_fab"
+\i (00:00:20) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BBB_RevB6_fab"
+\i (00:00:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BBB_RevB6_lyr1"
+\i (00:00:22) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BBB_RevB6_lyr1"
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 4599.02 1895.80
+\i (00:00:22) trapsize 5099
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 4599.01 1895.80
+\i (00:00:23) trapsize 2550
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 5032.47 1865.20
+\i (00:00:23) trapsize 5099
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 5032.47 1865.21
+\i (00:00:23) trapsize 10199
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 8166.37 1865.21
+\i (00:00:24) trapsize 5099
+\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:00:26) exit 
+\t (00:00:27)     Journal end - Fri Jan 31 23:08:47 2025

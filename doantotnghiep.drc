@@ -1,0 +1,201 @@
+Date and Time : 01/11/25 15:41:57
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict 3V3_DEVICES  Power Connected to Bidirectional
+                    SCHEMATIC1, RS485  (5.78, 1.42) 
+WARNING(ORCAP-1829): Possible pin type conflict 3V3D  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (5.32, 0.74) 
+WARNING(ORCAP-1829): Possible pin type conflict U36,VCC  Power Connected to Bidirectional
+                    SCHEMATIC1, RS485  (5.78, 2.34) 
+WARNING(ORCAP-1829): Possible pin type conflict U30,VCC  Power Connected to Bidirectional
+                    SCHEMATIC1, RS485  (1.48, 1.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,VDD  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (3.40, 1.34) 
+WARNING(ORCAP-1829): Possible pin type conflict S15,COM_2  Bidirectional Connected to Power
+                    SCHEMATIC1, ETHERNET  (0.28, 2.78) 
+WARNING(ORCAP-1829): Possible pin type conflict S15,COM_1  Bidirectional Connected to Power
+                    SCHEMATIC1, ETHERNET  (0.28, 2.68) 
+WARNING(ORCAP-1829): Possible pin type conflict S15,COM_3  Bidirectional Connected to Power
+                    SCHEMATIC1, ETHERNET  (0.28, 2.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U33,OUT  Bidirectional Connected to Power
+                    SCHEMATIC1, POWER  (8.06, 2.74) 
+WARNING(ORCAP-1829): Possible pin type conflict U13,VCC  Power Connected to Bidirectional
+                    SCHEMATIC1, RTC  (4.26, 3.02) 
+WARNING(ORCAP-1829): Possible pin type conflict GND  Power Connected to Bidirectional
+                    SCHEMATIC1, RS485  (0.34, 1.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U36,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, RS485  (5.78, 3.34) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,AGND  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (3.40, 4.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,AGND  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (3.40, 4.94) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,AGND  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (3.40, 5.04) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,AGND  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (3.40, 5.14) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,AGND  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (3.40, 5.24) 
+WARNING(ORCAP-1829): Possible pin type conflict Y6,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (8.58, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict Y6,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (8.58, 5.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,AGND  Power Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (3.40, 5.34) 
+WARNING(ORCAP-1829): Possible pin type conflict U33,GND  Bidirectional Connected to Power
+                    SCHEMATIC1, POWER  (7.36, 3.14) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,GND  Bidirectional Connected to Power
+                    SCHEMATIC1, POWER  (2.84, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U32,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, POWER  (5.06, 1.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U25,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, ADC_16BIT  (6.20, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict J61,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, USB  (5.00, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,XO  Output Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (2.00, 1.84) 
+WARNING(ORCAP-1829): Possible pin type conflict Y6,OUT/IN  Bidirectional Connected to Output
+                    SCHEMATIC1, ETHERNET  (8.58, 4.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U34,PB14  Bidirectional Connected to Output
+                    SCHEMATIC1, MCU  (1.22, 4.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U14,MISO  Output Connected to Bidirectional
+                    SCHEMATIC1, ETHERNET  (2.00, 2.34) 
+WARNING(ORCAP-1829): Possible pin type conflict 3V3_MCU  Power Connected to Bidirectional
+                    SCHEMATIC1, POWER  (6.24, 5.06) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,OUT  Bidirectional Connected to Power
+                    SCHEMATIC1, POWER  (3.54, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict 5V_MAIN  Power Connected to Bidirectional
+                    SCHEMATIC1, POWER  (7.72, 0.56) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,IN  Bidirectional Connected to Power
+                    SCHEMATIC1, POWER  (2.14, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U33,IN  Bidirectional Connected to Power
+                    SCHEMATIC1, POWER  (6.66, 2.74) 
+WARNING(ORCAP-1829): Possible pin type conflict J61,VCC  Power Connected to Bidirectional
+                    SCHEMATIC1, USB  (5.00, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict 12V  Power Connected to Bidirectional
+                    SCHEMATIC1, POWER  (2.18, 0.62) 
+WARNING(ORCAP-1829): Possible pin type conflict D36,K  Bidirectional Connected to Power
+                    SCHEMATIC1, OUTPUT  (7.34, 1.58) 
+WARNING(ORCAP-1829): Possible pin type conflict D37,K  Bidirectional Connected to Power
+                    SCHEMATIC1, OUTPUT  (7.44, 3.44) 
+WARNING(ORCAP-1829): Possible pin type conflict D109,K  Bidirectional Connected to Power
+                    SCHEMATIC1, OUTPUT2  (7.42, 1.58) 
+WARNING(ORCAP-1829): Possible pin type conflict D111,K  Bidirectional Connected to Power
+                    SCHEMATIC1, OUTPUT2  (7.52, 3.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U13,~INT/SQW  Output Connected to Bidirectional
+                    SCHEMATIC1, RTC  (5.66, 3.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U34,PC12  Bidirectional Connected to Output
+                    SCHEMATIC1, MCU  (1.22, 5.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U34,VSS@3  Power Connected to Bidirectional
+                    SCHEMATIC1, MCU  (3.12, 5.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U34,VSS@2  Power Connected to Bidirectional
+                    SCHEMATIC1, MCU  (3.12, 5.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U34,VSS@4  Power Connected to Bidirectional
+                    SCHEMATIC1, MCU  (3.12, 5.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U34,VSS@1  Power Connected to Bidirectional
+                    SCHEMATIC1, MCU  (3.12, 5.68) 
+WARNING(ORCAP-1829): Possible pin type conflict S16,3  Bidirectional Connected to Power
+                    SCHEMATIC1, MCU  (7.84, 4.04) 
+WARNING(ORCAP-1829): Possible pin type conflict S16,4  Bidirectional Connected to Power
+                    SCHEMATIC1, MCU  (7.84, 4.44) 
+WARNING(ORCAP-1608): Net has no driving source N652876 
+                    SCHEMATIC1, RTC  (3.26, 2.50) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N652876 
+                    SCHEMATIC1, RTC  (3.26, 2.50) 
+
+Checking For Unconnected Bus Nets
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector GND 
+                    SCHEMATIC1, MCU  (8.46, 4.58) 
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: DOANTOTNGHIEP 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? 3V3_DEVICES  3V3_DEVICES  3V3D  
+                    SCHEMATIC1, RS485  (5.78, 1.42) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U36,VCC  VCC  3V3D
+                    SCHEMATIC1, RS485  (5.78, 2.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U30,VCC  VCC  3V3D
+                    SCHEMATIC1, RS485  (1.48, 1.84) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,VDD  VDD  3V3D
+                    SCHEMATIC1, ETHERNET  (3.40, 1.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U13,VCC  VCC  3V3D
+                    SCHEMATIC1, RTC  (4.26, 3.02) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J61,VCC  VCC  5V_MAIN
+                    SCHEMATIC1, USB  (5.00, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U25,VDD  VDD  3V3
+                    SCHEMATIC1, ADC_16BIT  (6.20, 3.00) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J10,GND  GND  CGND
+                    SCHEMATIC1, ETHERNET  (6.32, 2.84) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AVDD  AVDD  3V3A
+                    SCHEMATIC1, ETHERNET  (3.40, 1.44) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AVDD  AVDD  3V3A
+                    SCHEMATIC1, ETHERNET  (3.40, 1.54) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AVDD  AVDD  3V3A
+                    SCHEMATIC1, ETHERNET  (3.40, 1.64) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AVDD  AVDD  3V3A
+                    SCHEMATIC1, ETHERNET  (3.40, 1.74) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AVDD  AVDD  3V3A
+                    SCHEMATIC1, ETHERNET  (3.40, 1.84) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AVDD  AVDD  3V3A
+                    SCHEMATIC1, ETHERNET  (3.40, 1.94) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U36,GND  GND  GND_561503
+                    SCHEMATIC1, RS485  (5.78, 3.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AGND  AGND  GND_561503
+                    SCHEMATIC1, ETHERNET  (3.40, 4.84) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AGND  AGND  GND_561503
+                    SCHEMATIC1, ETHERNET  (3.40, 4.94) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AGND  AGND  GND_561503
+                    SCHEMATIC1, ETHERNET  (3.40, 5.04) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AGND  AGND  GND_561503
+                    SCHEMATIC1, ETHERNET  (3.40, 5.14) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AGND  AGND  GND_561503
+                    SCHEMATIC1, ETHERNET  (3.40, 5.24) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? Y6,GND  GND  GND_561503
+                    SCHEMATIC1, ETHERNET  (8.58, 5.20) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? Y6,GND  GND  GND_561503
+                    SCHEMATIC1, ETHERNET  (8.58, 5.10) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U14,AGND  AGND  GND_561503
+                    SCHEMATIC1, ETHERNET  (3.40, 5.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U32,GND  GND  GND_561503
+                    SCHEMATIC1, POWER  (5.06, 1.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U25,GND  GND  GND_561503
+                    SCHEMATIC1, ADC_16BIT  (6.20, 4.10) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J61,GND  GND  GND_561503
+                    SCHEMATIC1, USB  (5.00, 3.10) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

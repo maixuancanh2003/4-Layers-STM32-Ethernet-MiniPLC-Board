@@ -1,0 +1,401 @@
+(ExpressProject "DoAnTotNghiep"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[01/24/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "doantotnghiep222")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\doantotnghiep.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\doantotnghiep.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (IREFReportFile "D:\ALLEGRO\PROJECT\CANHMAI\DOAN2\DOANTOTNGHIEP.csv")
+    (IREFViewOutput "0")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\doantotnghiep.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "D:\ALLEGRO\PROJECT\CANHMAI\DOAN2\DOANTOTNGHIEP.DRC"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\doantotnghiep.csv"
+      (Type "Report")
+      (DisplayName ".\doantotnghiep.csv"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\doantotnghiep.drc"
+      (Type "Report")
+      (DisplayName ".\doantotnghiep.drc"))
+    (File "d:\allegro\project\canhmai\doan2\doantotnghiep.csv"
+      (Type "Report")
+      (DisplayName
+         "..\..\..\..\allegro\project\canhmai\doan2\doantotnghiep.csv"))
+    (File "d:\allegro\project\canhmai\doan2\doantotnghiep.drc"
+      (Type "Report")
+      (DisplayName
+         "..\..\..\..\allegro\project\canhmai\doan2\doantotnghiep.drc"))
+    (File ".\doantotnghiep\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\doantotnghiep\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\doantotnghiep\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "d:\hk242\do_an_tot_nghiep\backup_17_2\doantotnghiep\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "d:\hk242\do_an_tot_nghiep\backup_17_2\doantotnghiep\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "d:\hk242\do_an_tot_nghiep\backup_17_2\doantotnghiep\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "d:\hk242\do_an_tot_nghiep\backup_17_2\doantotnghiep222\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "d:\hk242\do_an_tot_nghiep\backup_17_2\doantotnghiep222\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "d:\hk242\do_an_tot_nghiep\backup_17_2\doantotnghiep222\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (B4B-XH-AM_LFSN
+      (FullPartName "B4B-XH-AM_LFSN.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\HEADER\HEADER 4 PIN\B4B-XH-AM_LFSN.OLB")
+      (DeviceIndex "0"))
+    (4628
+      (FullPartName "4628.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\FUSE HOLDER\4628.OLB")
+      (DeviceIndex "0"))
+    (RXEF250
+      (FullPartName "RXEF250.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\CAUCHICAM_MAUVANGVANG\RXEF250\RXEF250.OLB")
+      (DeviceIndex "0"))
+    (5STP-5-R
+      (FullPartName "5STP-5-R.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\CAU CHI 5A\5STP-5-R.OLB")
+      (DeviceIndex "0"))
+    (BK-53
+      (FullPartName "BK-53.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\CONNECTOR_FUSE\BK-53\BK-53.OLB")
+      (DeviceIndex "0"))
+    (CM7V-T1A-LOW-ESR-32768KHZ-6PF
+      (FullPartName "CM7V-T1A-LOW-ESR-32768KHZ-6PF-20-TA-QC.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\CRYSTAL 3215 SMD\3215.OLB")
+      (DeviceIndex "0"))
+    (ASEDV-12000MHZ-LC
+      (FullPartName "ASEDV-12000MHZ-LC.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\THACH ANH 3225 SMD 12MHZ\ASEDV-12.000MHZ-LC\ASEDV-12000MHZ-LC.OLB")
+      (DeviceIndex "0"))
+    (AB26TRB-3276KHZ
+      (FullPartName "AB26TRB-3276KHZ.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\THACHANH_3215_32764KHZ\AB26TRB-3276KHZ.OLB")
+      (DeviceIndex "0"))
+    (ECS-480-8-33B-CWY-TR3
+      (FullPartName "ECS-480-8-33B-CWY-TR3.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\ECS-480-8-33B-CWY-TR3\ECS-480-8-33B-CWY-TR3.OLB")
+      (DeviceIndex "0"))
+    (SPST
+      (FullPartName "SPST.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\PTS636SP43SMTRLFS\PTS636SP43SMTRLFS.OLB")
+      (DeviceIndex "0"))
+    (V06-2X5-SV-GF-1
+      (FullPartName "V06-2X5-SV-GF-1.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\V06-2X5-SV-GF-1\V06-2X5-SV-GF-1.OLB")
+      (DeviceIndex "0"))
+    ("Drill Hole M3"
+      (FullPartName "Drill Hole M3.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\DRILL M3\DRILLM3.OLB")
+      (DeviceIndex "0"))
+    (HTTI-47-56
+      (FullPartName "HTTI-47-56.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\CUON CAM 8052\HTTI-47-56.OLB")
+      (DeviceIndex "0"))
+    (ECEA1HN100UI
+      (FullPartName "ECEA1HN100UI.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\TUHOA\10UF 50V\ECEA1HN100UI.OLB")
+      (DeviceIndex "0"))
+    (EEUFK1V391
+      (FullPartName "EEUFK1V391.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\TU HOA 10X13\EEUFK1V391.OLB")
+      (DeviceIndex "0"))
+    (S10MC
+      (FullPartName "S10MC.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\S10MC\S10MC.OLB")
+      (DeviceIndex "0"))
+    (ADS1115IDGSR
+      (FullPartName "ADS1115IDGSR.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\ADS1115IDGSR\ADS1115IDGSR.OLB")
+      (DeviceIndex "0"))
+    (ADS1115BQDGSRQ1
+      (FullPartName "ADS1115BQDGSRQ1.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\ADS1115BQDGSRQ1\ADS1115BQDGSRQ1.OLB")
+      (DeviceIndex "0"))
+    (ADS1115IDGST
+      (FullPartName "ADS1115IDGST.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\ADS1115IDGST\ADS1115IDGST.OLB")
+      (DeviceIndex "0"))
+    (74HC04D,653
+      (FullPartName "74HC04D,653.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\74HC04D_653\74HC04D,653.OLB")
+      (DeviceIndex "0"))
+    (BUTT-2
+      (FullPartName "BUTT-2.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\BUTT-2\BUTT-2.OLB")
+      (DeviceIndex "0"))
+    (USB-A-S-X-X-TH
+      (FullPartName "USB-A-S-X-X-TH.Normal")
+      (LibraryName
+         "D:\ALLEGRO\PROJECT\CANHMAI\LIB\SCHEMATIC_AND_FOOTPRINT\USB-A-FEMALE-HOLE\USB-A-S-X-X-TH.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Allegro\Project\CanhMai\Lib\Schematic_And_FootPrint\Header\Header 4 Pin")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 461"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "0 0")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ETHERNET"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1034 24 479")
+        (Scroll "492 492")
+        (Zoom "192")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "0 0")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "INPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "-33 0")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "OUTPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "0 0")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "OUTPUT2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "-217 -3")
+        (Zoom "58")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "TERMINAL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "-33 0")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RTC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1034 24 479")
+        (Scroll "0 0")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "OFFPAGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "-33 0")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MCU_STM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "-217 -3")
+        (Zoom "58")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RS485_3V3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "-13 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "USB"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Scroll "-33 120")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ADC_16BIT")))
+  (MPSSessionName "Admin")
+  (ISPCBBASICLICENSE "false"))
