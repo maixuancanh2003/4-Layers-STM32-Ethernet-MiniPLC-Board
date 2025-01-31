@@ -1,7 +1,7 @@
 # 4-Layers STM32 Ethernet MiniPLC Board
 
 🚀 **High-Speed Industrial MiniPLC Board** powered by **STM32** with **Ethernet & Industrial Interfaces**  
-
+**This is an ongoing project and is expected to be completed in June 2025.**
 ## 📌 Overview
 This project is a **4-layer industrial MiniPLC** designed with **STM32F411RET6**, featuring **Ethernet (W5500), industrial I/Os, RS485 communication, and ADC for sensor data acquisition**. The board is optimized for **real-time data logging, industrial automation, and IIoT applications**.
 
@@ -10,19 +10,19 @@ This project is a **4-layer industrial MiniPLC** designed with **STM32F411RET6**
 ✅ **Ethernet Connectivity:** W5500 SPI Ethernet Controller  
 ✅ **Industrial Communication Protocols:**  
    - **Modbus RTU (RS485), Modbus TCP/IP**  
-   - **OPC-UA, MQTT for IIoT**  
+   - **OPC-UA, MQTT for AIoT**  
 ✅ **I/O Interfaces:**  
-   - **Isolated GPIOs (24V Input & Output)**  
+   - **Isolated GPIOs (12V Input & Output)**  
    - **Analog Input (0-10V) & Analog Output (PWM, DAC)**  
 ✅ **Real-Time Clock:** DS3231 with battery backup  
 ✅ **Storage:** SD Card for data logging  
-✅ **Power Supply:** 24V DC Input  
+✅ **Power Supply:** 12V DC Input  
 
 ## 🛠️ Hardware Design
-- **🖥️ PCB Design:** 4-layer board designed in **Altium Designer**  
+- **🖥️ PCB Design:** 4-layer board designed in **Allegro/Orcad v17.4**  
 - **⚡ High-Speed Design:** Differential pairs for Ethernet, impedance matching  
 - **🔧 Isolation:** Optocouplers for GPIOs, TVS diodes for surge protection  
-- **📝 Schematics & Layout:** [View in Altium/KiCad](#) *(Add link if available)*  
+- **📝 Schematics & Layout:** [View in Allegro/Orcad v17.4](#)  
 
 ## 💾 Firmware
 - **🛠️ Developed using:** STM32CubeIDE, FreeRTOS  
@@ -30,8 +30,6 @@ This project is a **4-layer industrial MiniPLC** designed with **STM32F411RET6**
   - LWIP for Ethernet  
   - Modbus (RTU/TCP)  
   - MQTT for IIoT data exchange  
-- **📦 File System:** FAT32 support for SD Card logging  
-- **🔄 OTA Updates:** Implemented via SD Card  
 
 ## 📡 Connectivity & Industrial IoT
 - **🌐 Ethernet (W5500 SPI)**
@@ -41,15 +39,14 @@ This project is a **4-layer industrial MiniPLC** designed with **STM32F411RET6**
 
 ## 🚀 Getting Started
 ### 1️⃣ Hardware Setup
-1. Power the board using **24V DC**.  
+1. Power the board using **12V DC**.  
 2. Connect **Ethernet, RS485, or Sensors** as needed.  
-3. Insert an **SD Card (FAT32 format)** for data logging (optional).  
-
+3. Connect to a Raspberry Pi 5 Expansion Board to analyze edge computing data from a database.
 ### 2️⃣ Firmware Flashing
 1. Install **STM32CubeIDE**.  
 2. Clone this repo:  
    ```bash
-   git clone https://github.com/yourgithub/4-Layers-STM32-Ethernet-MiniPLC-Board.git
+   git clone https://github.com/maixuancanh2003/4-Layers-STM32-Ethernet-MiniPLC-Board.git
    cd 4-Layers-STM32-Ethernet-MiniPLC-Board
    ```
 3. Flash the firmware using **ST-Link** or DFU mode.
@@ -68,7 +65,10 @@ This project is a **4-layer industrial MiniPLC** designed with **STM32F411RET6**
 - [📡 MQTT/Modbus Configuration Guide](#) *(Add link if available)*  
 
 ## 📸 Project Images
-*(Add real board images and PCB layout screenshots here)*  
+| View        | Image                             |
+|-------------|-----------------------------------|
+| **FrontLeft View**    | ![FrontLeft View](Image/FrontLeft.png)    |
+| **Bottom View** | ![Bottom View](Image/Bottom.png) |
 
 ## 👨‍💻 Author & Contributions
 Developed by **Mai Xuan Canh** 🚀  
@@ -78,7 +78,7 @@ Developed by **Mai Xuan Canh** 🚀
 ## 🌟 Support & Contributions
 Feel free to fork this repo, submit pull requests, or raise issues! If you find this project useful, **please give it a ⭐️!**  
 
-👉 **[GitHub Repo](https://github.com/yourgithub/4-Layers-STM32-Ethernet-MiniPLC-Board)** *(Replace with actual link)* 🚀  
+👉 **[GitHub Repo](https://github.com/maixuancanh2003/4-Layers-STM32-Ethernet-MiniPLC-Board)**  🚀  
 
 ## 📜 License
 This project is licensed under the **MIT License**. See `LICENSE` for more details.
