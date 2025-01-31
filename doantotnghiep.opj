@@ -100,11 +100,11 @@
     (File ".\doantotnghiep.drc"
       (Type "Report")
       (DisplayName ".\doantotnghiep.drc"))
-    (File "d:\allegro\project\canhmai\doan2\doantotnghiep.csv"
+    (File "..\project\canhmai\doan2\doantotnghiep.csv"
       (Type "Report")
       (DisplayName
          "..\..\..\..\allegro\project\canhmai\doan2\doantotnghiep.csv"))
-    (File "d:\allegro\project\canhmai\doan2\doantotnghiep.drc"
+    (File "..\project\canhmai\doan2\doantotnghiep.drc"
       (Type "Report")
       (DisplayName
          "..\..\..\..\allegro\project\canhmai\doan2\doantotnghiep.drc"))
