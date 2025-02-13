@@ -59,16 +59,13 @@ This project is a **4-layer industrial MiniPLC** designed with **STM32F411RET6**
    ```
 3. Open **MQTT Dashboard** or **Modbus Poll** to test data exchange.
 
-## 📚 Documentation
-- [📖 Schematic & PCB Layout](#) *(Add link if available)*  
-- [⚙️ Firmware Source Code](#) *(Add link if available)*  
-- [📡 MQTT/Modbus Configuration Guide](#) *(Add link if available)*  
-
 ## 📸 Project Images
 | View        | Image                             |
 |-------------|-----------------------------------|
 | **FrontLeft View**    | ![FrontLeft View](Image/FrontLeft.png)    |
 | **Bottom View** | ![Bottom View](Image/Bottom.png) |
+| **Layout Top**    | ![FrontLeft View](Image/Layout_top.png)    |
+| **Layout Bottom** | ![Bottom View](Image/Layout_bottom.png) |
 
 ## 👨‍💻 Author & Contributions
 Developed by **Mai Xuan Canh** 🚀  
