@@ -65,7 +65,7 @@ This project is a **2-layer industrial MiniPLC** designed with **STM32F411RET6**
 | **FrontLeft View**    | ![FrontLeft View](Image/FrontLeft.png)    |
 | **Bottom View** | ![Bottom View](Image/Bottom.png) |
 | **Layout Top**    | ![FrontLeft View](Image/Layout_top.png)    |
-| **Layout Bottom** | ![Bottom View](Image/Layout_bottom.png) |
+| **Layout Bottom** | ![Bottom View](Image/Layout_bottom2.png) |
 
 ## 👨‍💻 Author & Contributions
 Developed by **Mai Xuan Canh** 🚀  
