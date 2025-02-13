@@ -82,7 +82,18 @@
     (DRC_Type_Mismatch "TRUE")
     (DRC_Identical_References "TRUE")
     (DRC_Run_Custom_Rules "FALSE")
-    (DRC_Report_File "D:\ALLEGRO\PROJECT\CANHMAI\DOAN2\DOANTOTNGHIEP.DRC"))
+    (DRC_Report_File "D:\ALLEGRO\PROJECT\CANHMAI\DOAN2\DOANTOTNGHIEP.DRC")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "D:\ALLEGRO\4 LAYER\DOANTOTNGHIEP.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File "D:\ALLEGRO\4 LAYER\DOANTOTNGHIEP.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
   (Folder "Layout")
   (Folder "Outputs"
     (File ".\doantotnghiep.csv"
@@ -134,7 +145,9 @@
       (DisplayName "pstxprt.dat"))
     (File "d:\hk242\do_an_tot_nghiep\backup_17_2\doantotnghiep222\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\doantotnghiep.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -270,131 +283,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs"))
+      (Path "Design Resources" "D:\Allegro\4 Layer\doantotnghiep.dsn")
+      (Path "Design Resources" "D:\Allegro\4 Layer\doantotnghiep.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" "D:\Allegro\4 Layer\doantotnghiep.dsn"
+         "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 461"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 336"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
+        (Placement "44 0 1 -1 -1 -1 -1 5 741 24 354")
         (Scroll "0 0")
-        (Zoom "116")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "ETHERNET"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1034 24 479")
-        (Scroll "492 492")
-        (Zoom "192")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "0 0")
-        (Zoom "116")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "INPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "-33 0")
-        (Zoom "96")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "OUTPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "0 0")
-        (Zoom "116")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "OUTPUT2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "-217 -3")
-        (Zoom "58")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "TERMINAL"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "-33 0")
-        (Zoom "96")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "RTC"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1034 24 479")
-        (Scroll "0 0")
-        (Zoom "116")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "OFFPAGE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "-33 0")
-        (Zoom "96")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "MCU_STM"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "-217 -3")
-        (Zoom "58")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "RS485_3V3"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "-13 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "USB"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1034 24 479")
-        (Scroll "-33 120")
-        (Zoom "96")
-        (Occurrence "/"))
-      (Path "D:\HK242\DO_AN_TOT_NGHIEP\HARDWARE\6 LAYER\DOANTOTNGHIEP.DSN")
+      (Path "D:\ALLEGRO\4 LAYER\DOANTOTNGHIEP.DSN")
       (Schematic "SCHEMATIC1")
       (Page "ADC_16BIT")))
   (MPSSessionName "Admin")
