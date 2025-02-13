@@ -1,9 +1,9 @@
-# 4-Layers STM32 Ethernet MiniPLC Board
+# 2-Layers STM32 Ethernet MiniPLC Board
 
 🚀 **High-Speed Industrial MiniPLC Board** powered by **STM32** with **Ethernet & Industrial Interfaces**  
 **This is an ongoing project and is expected to be completed in June 2025.**
 ## 📌 Overview
-This project is a **4-layer industrial MiniPLC** designed with **STM32F411RET6**, featuring **Ethernet (W5500), industrial I/Os, RS485 communication, and ADC for sensor data acquisition**. The board is optimized for **real-time data logging, industrial automation, and IIoT applications**.
+This project is a **2-layer industrial MiniPLC** designed with **STM32F411RET6**, featuring **Ethernet (W5500), industrial I/Os, RS485 communication, and ADC for sensor data acquisition**. The board is optimized for **real-time data logging, industrial automation, and IIoT applications**.
 
 ## ✨ Features
 ✅ **Processor:** STM32F411RET6 (Cortex-M4, 100MHz, 512KB Flash, 128KB RAM)  
@@ -19,7 +19,7 @@ This project is a **4-layer industrial MiniPLC** designed with **STM32F411RET6**
 ✅ **Power Supply:** 12V DC Input  
 
 ## 🛠️ Hardware Design
-- **🖥️ PCB Design:** 4-layer board designed in **Allegro/Orcad v17.4**  
+- **🖥️ PCB Design:** 2-layer board designed in **Allegro/Orcad v17.4**  
 - **⚡ High-Speed Design:** Differential pairs for Ethernet, impedance matching  
 - **🔧 Isolation:** Optocouplers for GPIOs, TVS diodes for surge protection  
 - **📝 Schematics & Layout:** [View in Allegro/Orcad v17.4](#)  
